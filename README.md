@@ -11,7 +11,6 @@ I am a passionate <strong>Python Developer</strong> specializing in <strong>Arti
  - 📍 <strong>Location</strong>: Tashkent, Uzbekistan
  - 💬 <strong>Languages</strong>: English, Russian, Uzbek
 
-
 ### Skills
 
 - **Python**: 100%
@@ -19,23 +18,18 @@ I am a passionate <strong>Python Developer</strong> specializing in <strong>Arti
 - **C++**: 80%
 - **HTML/CSS**: 70%
 
-
-
 ### 🛠️ Projects
 
 #### 1. [Online Shop](https://github.com/ayubxontursunov/Django-tutorial)
 A simple online shop using the Django framework, featuring product listings, a shopping cart, and user authentication.
 
 
-
 #### 2. [Todo App](https://github.com/ayubxontursunov/todo_app)
 A simple and intuitive web application for managing daily tasks, built with Django.
 
 
-
 #### 3. [Neural Network](https://github.com/ayubxontursunov/Handwritten-alphabet-recognition-neural_networks)
 A neural network model for recognizing handwritten alphabet letters using TensorFlow and Keras.
-
 
 
 #### 4. [FastAPI Translation Service](https://github.com/ayubxontursunov/translatorAPI)
@@ -56,4 +50,3 @@ You can download my resume [here](app/static/images/myresume.pdf).
 ### 🌟 Let's Collaborate!
 I'm always open to new opportunities and collaborations. Let's create something amazing together!
 
----
