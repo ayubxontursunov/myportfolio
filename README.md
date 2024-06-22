@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Ayyubkhon Tursunov
 ## 🖥️ Backend Developer | 🌐 Python Enthusiast | 🤖 AI Specialist
 
----
 
 ### 📄 About Me
 I am a passionate <strong>Python Developer</strong> specializing in <strong>Artificial Intelligence</strong> and <strong>Backend Development</strong>. Experienced in building neural networks, developing Telegram bots, and creating scalable web applications with <strong>Django</strong>. Currently pursuing a degree in Electrical and Computer Engineering at Ajou University, where I excel academically and contribute to cutting-edge research in electric vehicle battery technologies.
@@ -10,7 +9,6 @@ I am a passionate <strong>Python Developer</strong> specializing in <strong>Arti
  - 📍 <strong>Location</strong>: Tashkent, Uzbekistan
  - 💬 <strong>Languages</strong>: English, Russian, Uzbek
 
---- 
 
 ### Skills
 
@@ -19,7 +17,7 @@ I am a passionate <strong>Python Developer</strong> specializing in <strong>Arti
 - **C++**: 80%
 - **HTML/CSS**: 70%
 
----
+
 
 ### 🛠️ Projects
 
@@ -52,7 +50,6 @@ A translation service between Uzbek (uz) and English (en) languages, powered by 
 
 You can download my resume [here](app/static/images/myresume.pdf).
 
----
 
 ### 🌟 Let's Collaborate!
 I'm always open to new opportunities and collaborations. Let's create something amazing together!
